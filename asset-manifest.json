@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pratima0111/meetme/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pratima0111/meetme/static/js/main.ed0feaa1.chunk.js",
+    "main.js.map": "/pratima0111/meetme/static/js/main.ed0feaa1.chunk.js.map",
+    "runtime-main.js": "/pratima0111/meetme/static/js/runtime-main.1409d31c.js",
+    "runtime-main.js.map": "/pratima0111/meetme/static/js/runtime-main.1409d31c.js.map",
+    "static/js/2.f1f5e7c2.chunk.js": "/pratima0111/meetme/static/js/2.f1f5e7c2.chunk.js",
+    "static/js/2.f1f5e7c2.chunk.js.map": "/pratima0111/meetme/static/js/2.f1f5e7c2.chunk.js.map",
+    "static/js/3.13c02e82.chunk.js": "/pratima0111/meetme/static/js/3.13c02e82.chunk.js",
+    "static/js/3.13c02e82.chunk.js.map": "/pratima0111/meetme/static/js/3.13c02e82.chunk.js.map",
+    "index.html": "/pratima0111/meetme/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pratima0111/meetme/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f1f5e7c2.chunk.js.LICENSE.txt": "/pratima0111/meetme/static/js/2.f1f5e7c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1409d31c.js",
+    "static/js/2.f1f5e7c2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ed0feaa1.chunk.js"
+  ]
+}
